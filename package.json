@@ -1,0 +1,22 @@
+{
+  "name": "projectstructure",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "dependencies": {
+    "webpack-cli": "^3.3.10",
+    "bootstrap": "^4.4.1",
+    "webpack": "^4.41.2"
+  },
+  "devDependencies": {
+    "node-sass": "^4.13.0",
+    "sass-loader": "^8.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "webpack": "webpack"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

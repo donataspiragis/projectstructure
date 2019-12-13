@@ -1,0 +1,15 @@
+{
+    "name": "projektukas/struktura",
+    "description": "safas",
+    "autoload": {
+        "psr-4": {
+            "App\\Controller\\": "app/controller",
+            "App\\Model\\": "app/model",
+            "App\\": "app"
+        }
+    },
+    "require": {
+        "symfony/http-foundation": "^5.0",
+        "twig/twig": "^3.0"
+    }
+}
